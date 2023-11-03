@@ -1,1 +1,6 @@
-Step 4: line added by Elliott at Nov 3 at 2:05
+<<<<<<< HEAD
+Step 4: line added by Stevie on Nov 3 at 2:03 pm.
+=======
+Step 3
+>>>>>>> 664fdb84ef30bc4e82c3e33bc5116e71b1443c8d
+>>>>>>> c5db1be792cc8d1fb0725f6ab5484eee0963e5f1
